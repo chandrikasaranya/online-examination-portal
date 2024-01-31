@@ -8,7 +8,6 @@ import { IoIosLogOut } from "react-icons/io";
 
 const Sidebar = ({ children }) => {
   const [isOpen, setIsOpen] = useState(false);
-
   const toggle = () => setIsOpen(!isOpen);
 
   const menuItems = [
