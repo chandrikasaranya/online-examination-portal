@@ -200,7 +200,7 @@ Authentication Service is part of Online Exam Mongodb Database Infrastructure.
 ### How to run ###
 1. Move to the 'app' folder
 ```
-cd app
+cd online-examination-portal
 ```
 2. Move to the 'frontend' folder
 ```
