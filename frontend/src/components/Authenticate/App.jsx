@@ -7,7 +7,7 @@ import Activate from './Activate';
 import ForgotPassword from './ForgotPassword';
 import Home from './Home';
 import Vactivate from './Vactivate';
-import Result from './dashboard/Result';
+import Result from './dashboard/Result'
 import Exam from './dashboard/Exam';
 import Profile from './dashboard/Profile';
 
